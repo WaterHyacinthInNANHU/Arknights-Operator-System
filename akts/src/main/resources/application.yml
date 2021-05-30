@@ -1,0 +1,32 @@
+
+spring:
+    profiles:
+        active: dev
+
+    mail:
+        host: smtp.163.com
+        nickname: ArkDevel
+        username: 
+        password: 
+        default-encoding: UTF-8
+        protocol: smtp
+        port: 465
+        properties:
+            mail:
+                smtp:
+                    socketFactory:
+                        class: javax.net.ssl.SSLSocketFactory
+    
+    datasource:
+        url: jdbc:mysql://localhost:3306/akst?useSSL=false&serverTimezone=UTC
+        username: username
+        password: password
+        driver-class-name: com.mysql.cj.jdbc.Driver
+        type: com.alibaba.druid.pool.DruidDataSource
+    
+    jpa:
+        database: mysql
+        hibernate:
+            ddl-auto: update
+        show-sql: true
+

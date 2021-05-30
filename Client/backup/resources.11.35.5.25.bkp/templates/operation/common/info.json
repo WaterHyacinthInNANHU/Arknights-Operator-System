@@ -1,0 +1,146 @@
+{
+    "\u5f00\u59cb\u884c\u52a8": {
+        "location": [
+            1765.5,
+            981.0
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "operation/common/\u5f00\u59cb\u884c\u52a8.png",
+        "size": [
+            167,
+            50
+        ],
+        "timestamp": "2021-05-23-17:42:26"
+    },
+    "\u4ee3\u7406\u6307\u6325_off": {
+        "location": [
+            1715.0,
+            888.0
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "operation/common/\u4ee3\u7406\u6307\u6325_off.png",
+        "size": [
+            276,
+            48
+        ],
+        "timestamp": "2021-05-23-17:43:01"
+    },
+    "\u4ee3\u7406\u6307\u6325_on": {
+        "location": [
+            1715.5,
+            886.5
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "operation/common/\u4ee3\u7406\u6307\u6325_on.png",
+        "size": [
+            281,
+            49
+        ],
+        "timestamp": "2021-05-23-17:43:22"
+    },
+    "_\u5f00\u59cb\u884c\u52a8": {
+        "location": [
+            1655.0,
+            748.0
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "operation/common/_\u5f00\u59cb\u884c\u52a8.png",
+        "size": [
+            178,
+            322
+        ],
+        "timestamp": "2021-05-23-21:21:51"
+    },
+    "PRTS_working_properly_flag": {
+        "location": [
+            799.0,
+            978.0
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "operation/common/PRTS_working_properly_flag.png",
+        "size": [
+            228,
+            86
+        ],
+        "timestamp": "2021-05-23-21:27:02"
+    },
+    "error_flag": {
+        "location": [
+            666.5,
+            757.0
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "operation/common/error_flag.png",
+        "size": [
+            103,
+            96
+        ],
+        "timestamp": "2021-05-23-22:56:12"
+    },
+    "error_confirm": {
+        "location": [
+            1264.5,
+            762.0
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "operation/common/error_confirm.png",
+        "size": [
+            99,
+            90
+        ],
+        "timestamp": "2021-05-23-22:56:43"
+    },
+    "error_cancel": {
+        "location": [
+            663.5,
+            759.5
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "operation/common/error_cancel.png",
+        "size": [
+            97,
+            91
+        ],
+        "timestamp": "2021-05-23-22:56:55"
+    },
+    "operation_finished_flag": {
+        "location": [
+            321.5,
+            941.5
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "operation/common/operation_finished_flag.png",
+        "size": [
+            551,
+            163
+        ],
+        "timestamp": "2021-05-24-20:36:12"
+    }
+}

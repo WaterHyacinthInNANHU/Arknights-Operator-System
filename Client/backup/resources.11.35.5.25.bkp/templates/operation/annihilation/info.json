@@ -1,0 +1,34 @@
+{
+    "\u4f5c\u6218\u7b80\u62a5": {
+        "location": [
+            262.5,
+            631.5
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "operation/annihilation/\u4f5c\u6218\u7b80\u62a5.png",
+        "size": [
+            207,
+            101
+        ],
+        "timestamp": "2021-05-23-21:39:52"
+    },
+    "operation_finished_flag": {
+        "location": [
+            1327.5,
+            696.0
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "operation/annihilation/operation_finished_flag.png",
+        "size": [
+            129,
+            26
+        ],
+        "timestamp": "2021-05-23-21:41:47"
+    }
+}

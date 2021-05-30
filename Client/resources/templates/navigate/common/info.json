@@ -1,0 +1,18 @@
+{
+    "main_panel_loaded_flag": {
+        "location": [
+            1462.5,
+            242.5
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "navigate/common/main_panel_loaded_flag.png",
+        "size": [
+            213,
+            115
+        ],
+        "timestamp": "2021-05-25-11:45:25"
+    }
+}

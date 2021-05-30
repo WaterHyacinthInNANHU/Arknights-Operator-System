@@ -1,0 +1,27 @@
+{
+  "$schema": "device-config.schema.json",
+  "adb-android-8f8a80d5a4e2911f": {
+    "screenshot_rotate": 0,
+    "screenshot_type": "default",
+    "screen_width": 1920,
+    "screen_height": 1080
+  },
+  "adb-Error while accessing settings provider\njava.lang.NullPointerException: Attempt to invoke interface method 'android.app.IActivityManager$ContentProviderHolder android.app.IActivityManager.getContentProviderExternal(java.lang.String, int, android.os.IBinder)' on a null object reference\n\tat com.android.commands.settings.SettingsCmd.run(SettingsCmd.java:141)\n\tat com.android.commands.settings.SettingsCmd.main(SettingsCmd.java:63)\n\tat com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)\n\tat com.android.internal.os.RuntimeInit.main(RuntimeInit.java:251)": {
+    "screenshot_rotate": 0,
+    "screenshot_type": "default",
+    "screen_width": 1920,
+    "screen_height": 1080
+  },
+  "adb-8f8a80d5a4e2911f": {
+    "screenshot_rotate": 0,
+    "screenshot_type": "default",
+    "screen_width": 1920,
+    "screen_height": 1080
+  },
+  "adb-Error while accessing settings provider\njava.lang.NullPointerException: Attempt to read from field 'int com.android.server.am.ProcessRecord.uid' on a null object reference\n\tat android.os.Parcel.readException(Parcel.java:1626)\n\tat android.os.Parcel.readException(Parcel.java:1573)\n\tat android.app.ActivityManagerProxy.getContentProviderExternal(ActivityManagerNative.java:3585)\n\tat com.android.commands.settings.SettingsCmd.run(SettingsCmd.java:141)\n\tat com.android.commands.settings.SettingsCmd.main(SettingsCmd.java:63)\n\tat com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)\n\tat com.android.internal.os.RuntimeInit.main(RuntimeInit.java:251)": {
+    "screenshot_rotate": 0,
+    "screenshot_type": "default",
+    "screen_width": 1920,
+    "screen_height": 1080
+  }
+}

@@ -1,0 +1,59 @@
+{
+    "PRTS_info": {
+        "upper_left": [
+            938,
+            938
+        ],
+        "bottom_right": [
+            1302,
+            1024
+        ],
+        "center": [
+            1120,
+            981
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "timestamp": "2021-05-23-21:24:38"
+    },
+    "killing_progress": {
+        "upper_left": [
+            934,
+            22
+        ],
+        "bottom_right": [
+            1080,
+            68
+        ],
+        "center": [
+            1007,
+            45
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "timestamp": "2021-05-23-21:28:15"
+    },
+    "reward_info": {
+        "upper_left": [
+            706,
+            771
+        ],
+        "bottom_right": [
+            1909,
+            1058
+        ],
+        "center": [
+            1307,
+            914
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "timestamp": "2021-05-24-20:36:59"
+    }
+}

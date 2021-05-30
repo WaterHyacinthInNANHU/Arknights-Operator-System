@@ -1,0 +1,40 @@
+{
+    "\u4f5c\u6218\u7b80\u62a5_info": {
+        "upper_left": [
+            1463,
+            402
+        ],
+        "bottom_right": [
+            1723,
+            665
+        ],
+        "center": [
+            1593,
+            533
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "timestamp": "2021-05-23-21:40:38"
+    },
+    "reward_info": {
+        "upper_left": [
+            692,
+            769
+        ],
+        "bottom_right": [
+            1907,
+            993
+        ],
+        "center": [
+            1299,
+            881
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "timestamp": "2021-05-23-21:42:59"
+    }
+}

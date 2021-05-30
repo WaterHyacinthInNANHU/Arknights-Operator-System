@@ -1,0 +1,178 @@
+{
+    "start": {
+        "location": [
+            958.0,
+            1020.5
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "login/start.png",
+        "size": [
+            48,
+            31
+        ],
+        "timestamp": "2021-05-15-23:34:34"
+    },
+    "\u5f00\u59cb\u5524\u9192": {
+        "location": [
+            962.0,
+            765.0
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "login/\u5f00\u59cb\u5524\u9192.png",
+        "size": [
+            200,
+            80
+        ],
+        "timestamp": "2021-05-15-23:35:52"
+    },
+    "\u8bb0\u5fc6\u5df2\u7ecf\u6a21\u7cca": {
+        "location": [
+            961.0,
+            757.0
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "login/\u8bb0\u5fc6\u5df2\u7ecf\u6a21\u7cca.png",
+        "size": [
+            88,
+            86
+        ],
+        "timestamp": "2021-05-15-23:36:45"
+    },
+    "\u8d26\u53f7\u767b\u9646": {
+        "location": [
+            623.5,
+            760.5
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "login/\u8d26\u53f7\u767b\u9646.png",
+        "size": [
+            185,
+            73
+        ],
+        "timestamp": "2021-05-15-23:37:18"
+    },
+    "\u767b\u5f55\u6309\u94ae": {
+        "location": [
+            958.5,
+            867.0
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "login/\u767b\u5f55\u6309\u94ae.png",
+        "size": [
+            77,
+            42
+        ],
+        "timestamp": "2021-05-15-23:37:53"
+    },
+    "\u767b\u5f55\u754c\u9762": {
+        "location": [
+            945.0,
+            496.0
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "login/\u767b\u5f55\u754c\u9762.png",
+        "size": [
+            702,
+            328
+        ],
+        "timestamp": "2021-05-15-23:57:14"
+    },
+    "main_panel": {
+        "location": [
+            1459.0,
+            241.5
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "login/main_panel.png",
+        "size": [
+            208,
+            117
+        ],
+        "timestamp": "2021-05-16-11:50:22"
+    },
+    "warning": {
+        "location": [
+            958.5,
+            757.5
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "login/warning.png",
+        "size": [
+            89,
+            91
+        ],
+        "timestamp": "2021-05-16-12:00:56"
+    },
+    "\u83b7\u53d6\u7f51\u7edc\u914d\u7f6e\u5931\u8d25": {
+        "location": [
+            959.0,
+            448.0
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "login/\u83b7\u53d6\u7f51\u7edc\u914d\u7f6e\u5931\u8d25.png",
+        "size": [
+            494,
+            68
+        ],
+        "timestamp": "2021-05-16-12:01:27"
+    },
+    "close_announcement": {
+        "location": [
+            1855.5,
+            84.0
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "login/close_announcement.png",
+        "size": [
+            49,
+            62
+        ],
+        "timestamp": "2021-05-17-21:50:12"
+    },
+    "\u4eca\u65e5\u914d\u7ed9": {
+        "location": [
+            967.0,
+            161.5
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "login/\u4eca\u65e5\u914d\u7ed9.png",
+        "size": [
+            210,
+            221
+        ],
+        "timestamp": "2021-05-18-12:09:05"
+    }
+}

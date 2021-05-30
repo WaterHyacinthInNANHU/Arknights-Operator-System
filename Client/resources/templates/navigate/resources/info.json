@@ -1,0 +1,146 @@
+{
+    "\u52bf\u4e0d\u53ef\u6321": {
+        "location": [
+            1678.5,
+            407.0
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "navigate/resources/\u52bf\u4e0d\u53ef\u6321.png",
+        "size": [
+            227,
+            198
+        ],
+        "timestamp": "2021-05-25-10:51:26"
+    },
+    "\u56fa\u82e5\u91d1\u6c64": {
+        "location": [
+            1358.0,
+            382.0
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "navigate/resources/\u56fa\u82e5\u91d1\u6c64.png",
+        "size": [
+            248,
+            226
+        ],
+        "timestamp": "2021-05-25-10:52:11"
+    },
+    "\u8eab\u5148\u58eb\u5352": {
+        "location": [
+            1049.0,
+            409.5
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "navigate/resources/\u8eab\u5148\u58eb\u5352.png",
+        "size": [
+            248,
+            199
+        ],
+        "timestamp": "2021-05-25-10:52:35"
+    },
+    "\u6467\u67af\u62c9\u673d": {
+        "location": [
+            737.5,
+            399.0
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "navigate/resources/\u6467\u67af\u62c9\u673d.png",
+        "size": [
+            239,
+            214
+        ],
+        "timestamp": "2021-05-25-10:52:53"
+    },
+    "\u6218\u672f\u6f14\u4e60": {
+        "location": [
+            419.0,
+            408.5
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "navigate/resources/\u6218\u672f\u6f14\u4e60.png",
+        "size": [
+            242,
+            195
+        ],
+        "timestamp": "2021-05-25-10:53:16"
+    },
+    "\u8d27\u7269\u8fd0\u9001": {
+        "location": [
+            1185.5,
+            402.5
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "navigate/resources/\u8d27\u7269\u8fd0\u9001.png",
+        "size": [
+            251,
+            205
+        ],
+        "timestamp": "2021-05-25-10:53:45"
+    },
+    "\u7a7a\u4e2d\u5a01\u80c1": {
+        "location": [
+            869.5,
+            406.5
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "navigate/resources/\u7a7a\u4e2d\u5a01\u80c1.png",
+        "size": [
+            235,
+            203
+        ],
+        "timestamp": "2021-05-25-10:54:01"
+    },
+    "\u8d44\u6e90\u4fdd\u969c": {
+        "location": [
+            557.0,
+            411.5
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "navigate/resources/\u8d44\u6e90\u4fdd\u969c.png",
+        "size": [
+            232,
+            193
+        ],
+        "timestamp": "2021-05-25-10:54:16"
+    },
+    "\u7c89\u788e\u9632\u5fa1": {
+        "location": [
+            244.0,
+            402.5
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "navigate/resources/\u7c89\u788e\u9632\u5fa1.png",
+        "size": [
+            236,
+            211
+        ],
+        "timestamp": "2021-05-25-10:54:33"
+    }
+}

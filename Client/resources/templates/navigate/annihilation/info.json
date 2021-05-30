@@ -1,0 +1,50 @@
+{
+    "annihilation_operation_loaded_flag": {
+        "location": [
+            86.5,
+            969.0
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "navigate/annihilation/annihilation_operation_loaded_flag.png",
+        "size": [
+            105,
+            104
+        ],
+        "timestamp": "2021-05-21-23:34:03"
+    },
+    "annihilation_panel_loaded_flag": {
+        "location": [
+            444.5,
+            353.5
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "navigate/annihilation/annihilation_panel_loaded_flag.png",
+        "size": [
+            263,
+            315
+        ],
+        "timestamp": "2021-05-21-23:32:17"
+    },
+    "annihilation_panel": {
+        "location": [
+            441.5,
+            340.5
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "navigate/annihilation/annihilation_panel.png",
+        "size": [
+            275,
+            311
+        ],
+        "timestamp": "2021-05-21-23:23:21"
+    }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "device-config.schema.json",
+  "adb-android-8f8a80d5a4e2911f": {
+    "screenshot_rotate": 0,
+    "screenshot_type": "default",
+    "screen_width": 1920,
+    "screen_height": 1080
+  }
+}

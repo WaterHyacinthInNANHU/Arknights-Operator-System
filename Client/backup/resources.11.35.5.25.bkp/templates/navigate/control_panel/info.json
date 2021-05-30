@@ -1,0 +1,34 @@
+{
+    "\u7ec8\u7aef": {
+        "location": [
+            1462.5,
+            239.5
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "navigate/control_panel/\u7ec8\u7aef.png",
+        "size": [
+            219,
+            117
+        ],
+        "timestamp": "2021-05-25-11:33:32"
+    },
+    "control_panel_loaded_flag": {
+        "location": [
+            417.0,
+            53.0
+        ],
+        "resolution": [
+            1920,
+            1080
+        ],
+        "path": "navigate/control_panel/control_panel_loaded_flag.png",
+        "size": [
+            214,
+            62
+        ],
+        "timestamp": "2021-05-25-11:35:21"
+    }
+}
